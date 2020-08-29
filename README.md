@@ -1,5 +1,5 @@
-# simple-calculator
+ simple-calculator
 created by using HTML CSS JS 
 interactive and responsive
 
-https://punith-gowda.github.io/simple-calculator/
+# https://punith-gowda.github.io/simple-calculator/
